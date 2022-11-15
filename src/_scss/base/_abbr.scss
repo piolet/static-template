@@ -1,0 +1,10 @@
+abbr[title] {
+  text-decoration: none;
+  border-bottom: none;
+}
+
+@media only screen and (min-width : 950px) {
+  abbr[title] {
+    border-bottom: 0.1rem dotted;
+  }
+}

@@ -1,0 +1,36 @@
+/*
+@font-face {
+  font-family: "Faro";
+  src:  url("../fonts/Faro-DisplaySad.eot") format("eot"),
+        url("../fonts/Faro-DisplaySad.woff2") format('woff2'),
+        url("../fonts/Faro-DisplaySad.woff") format("woff"),
+        url("../fonts/Faro-DisplaySad.ttf") format("ttf");
+  font-weight: bold;
+  font-style: normal;
+}
+@font-face {
+  font-family: "Faro";
+  src:  url("../fonts/Faro-SemiBoldSad.eot") format("eot"),
+        url("../fonts/Faro-SemiBoldSad.woff2") format("woff2"),
+        url("../fonts/Faro-SemiBoldSad.woff") format("woff"),
+        url("../fonts/Faro-SemiBoldSad.ttf") format("ttf");
+  font-weight: normal;
+  font-style: normal;
+}
+*/
+
+html {
+  font-size: 0.625em;
+  font-family: /*'Faro', */'Courier', sans-serif;
+}
+
+p, span, div, a {
+  font-size: 1.6rem;
+}
+
+blockquote {
+  font-size: 2.5rem;
+}
+cite {
+  font-size: 2.0rem;
+}
